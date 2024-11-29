@@ -8,7 +8,7 @@ while True:
     if pasirinkimas == "2":
         continue
 
-    elif pasirinkimas == "1":
+    elif pasirinkimas == "0":
         break
     print(f"Jūs įvedėte {pasirinkimas}")
     print("kartojimo bloko pabaiga")

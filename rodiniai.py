@@ -8,7 +8,7 @@ for elem in person:  # gausim tik raktus
     print(elem)
 #rodinių metodai
 #  .items() - pilnas rodinys raktai - reikšmės
-print(person.items())  #  dict_items([('name', 'Albert'), ('surname', 'Einstein'), ('age', 60)])
+print(person.items())
 
 for key, value in person.items():
     print(key, value)
@@ -16,6 +16,6 @@ for key, value in person.items():
 
 
 
-for elem in person:  # gausim tik raktus, nes keys() iškviečiamas pagal nutylėjimą
+for elem in person:
     print(elem)
 
