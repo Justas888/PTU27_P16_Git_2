@@ -1,5 +1,5 @@
 while True:
-    print("kartojimo bloko pradžia")
+    print("kartojimo")
     print("1. išeiti iš kartojimo bloko\n"
           "2. vėl parodyti meniu(praleidžiam 1-ą kartojimą)")
 

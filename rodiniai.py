@@ -14,9 +14,7 @@ for key, value in person.items():
     print(key, value)
 
 
-# .key() - tik raktai
-for key in person.keys():
-    print(key)
+
 
 for elem in person:  # gausim tik raktus, nes keys() iškviečiamas pagal nutylėjimą
     print(elem)
